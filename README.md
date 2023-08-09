@@ -1,0 +1,1 @@
+This repository contains the files, folders and pages for my React Essential Training course on LinkedIn, just to keep everything organized and be able to get back to certain points if I need to
